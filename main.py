@@ -35,4 +35,4 @@ if __name__ == "__main__":
     print(f"@{uname} started successfully !")
     idle()
     app.stop()
-    print("Bot stopped. Bye ! , help : @ultroidoffcial_chat")
+    print("Bot stopped. Bye ! , help : @TriGO_Bot_Support)
