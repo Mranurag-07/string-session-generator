@@ -5,22 +5,22 @@
 </div>
 
 <p align="center">
-  <a href="https://t.me/ultroid_official">
-    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Channel-blue?style=for-the-badge&logo=telegram" alt="Ultroid Official Channel">
+  <a href="https://t.me/TriGO_Bot_SUPPORTS">
+    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Channel-blue?style=for-the-badge&logo=telegram" alt="Trigo Official Channel">
   </a>
-  <a href="https://t.me/ultroidofficial_chat">
-    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Group-blue?style=for-the-badge&logo=telegram" alt="Ultroid Official Group">
+  <a href="(https://t.me/TriGO_Bot_Support)">
+    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Group-blue?style=for-the-badge&logo=telegram" alt="Trigo Official Group">
   </a>
 </p>
 
 <h1 align="center">
-  <a href="https://telegram.me/ultroid_official">String Session Generator BOT</a>
+  <a href="https://t.me/TriGO_Bot_SUPPORTS">String Session Generator BOT</a>
 </h1>
 ## 🍁 About This SessionGenerator Bot :
 
 ### 🚀 Heroku Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahildesai07/string-session-generator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mranurag-07/string-session-generator)
 
 <details>
 <summary><h3>
