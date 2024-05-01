@@ -9,9 +9,9 @@ keyboard = InlineKeyboardMarkup(
     [
         [InlineKeyboardButton(text="❈ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 ❈", callback_data="gensession")],
         [
-            InlineKeyboardButton(text="❈ Support ❈", url="https://t.me/TriGO_Bot_Support"),
+            InlineKeyboardButton(text="❈ Office ❈", url="https://t.me/TriGO_Bot_Support"),
             InlineKeyboardButton(
-                text="❈ office ❈", url="https://t.me/TriGO_Bot_Support"
+                text="❈ Support  ❈", url="https://t.me/TriGO_Bot_SUPPORTS"
             ),
         ],
     ]
