@@ -5,29 +5,29 @@
 </div>
 
 <p align="center">
-  <a href="https://t.me/TriGO_Bot_Support">
-    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Channel-blue?style=for-the-badge&logo=telegram" alt="(TriGO_Bot_SUPPORTS)">
+  <a href="https://t.me/ultroid_official">
+    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Channel-blue?style=for-the-badge&logo=telegram" alt="Ultroid Official Channel">
   </a>
-  <a href="https://t.me/TriGO_Bot_Support">
-    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Group-blue?style=for-the-badge&logo=telegram" alt="TriGO_Bot_Support">
+  <a href="https://t.me/ultroidofficial_chat">
+    <img src="https://img.shields.io/badge/Ultroid%20%F0%9D%95%8F%20Official-Group-blue?style=for-the-badge&logo=telegram" alt="Ultroid Official Group">
   </a>
 </p>
 
 <h1 align="center">
-  <a href="https://t.me/TriGO_Bot_Support">String Session Generator BOT</a>
+  <a href="https://telegram.me/ultroid_official">String Session Generator BOT</a>
 </h1>
 ## 🍁 About This SessionGenerator Bot :
 
 ### 🚀 Heroku Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=(https://github.com/Mranurag-07/string-session-generator))
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahildesai07/string-session-generator)
 
 <details>
 <summary><h3>
 <b> 🚀 VPS Deployment </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/Mranurag-07/string-session-generator)/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/sahildesai07/SessionGenerator/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -55,18 +55,23 @@
 
 </details>
 
+### Credits : 
+- [ultroid_official](https://youtube.com/@ultroidofficial)
+- [Youtube](https://www.youtube.com/@ultroidofficial)
+- [𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦](https://docs.pyrogram.org)
+- [𝐒𝐮𝐝𝐨𝐑2𝐬𝐩𝐫](https://github.com/SudoR2spr)
 
 ### Everyone In This Journey !
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
-<a href="https://telegram.dog/TriGO_Bot_Support"><img src="https://img.shields.io/badge/-Support Gʀᴏᴜᴘ%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="https://telegram.dog/TriGO_Bot_SUPPORTS"><img src="https://img.shields.io/badge/-Channel%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>  
+<a href="https://telegram.dog/ultroidofficial_chat"><img src="https://img.shields.io/badge/-Support Gʀᴏᴜᴘ%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://telegram.dog/ultroid_official"><img src="https://img.shields.io/badge/-Channel%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>  
 <a href="https://telegram.dog/ultroidxTeam"><img title="Telegram" src="https://img.shields.io/static/v1?label=UltroidxTeam&message=TG&color=blue-green"></a> 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"> 
 </p>
  
 -----
-## Credits: [Blank](https://t.me/TriGO_Bot_Support)
+## Credits: [Blank](https://telegram.dog/ultroidxTeam)
 
 Last Edited on: 11/04/2024
